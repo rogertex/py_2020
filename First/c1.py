@@ -1,4 +1,5 @@
-#函数
-a=2.32456
-r= round(a,3)
-print(r)
+x= 2
+y=3
+print(x,y)
+x,y=y,x
+print(x,y)
